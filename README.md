@@ -3,4 +3,4 @@
 Simple website, just for fun.
 
 ### Result :
-https://danivideda.github.io/newsgrid/
+https://flamboyant-elion-e175d3.netlify.com/
